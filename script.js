@@ -243,7 +243,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         try {
             const payload = { contents: currentHistory };
-            const apiKey = ""; // API key is handled by the environment
+            const apiKey = "AIzaSyC0nU5kudyQJpdxpSlLGIbwRgZ24jqyvGY"; // API key is handled by the environment
             const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
             
             const response = await fetch(apiUrl, {
@@ -296,3 +296,4 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
