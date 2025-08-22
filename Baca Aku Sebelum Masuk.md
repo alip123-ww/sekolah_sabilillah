@@ -6,7 +6,6 @@ Proyek ini merupakan desain dan pengembangan website portofolio untuk **Sekolah 
 ## ✨ Deskripsi Singkat
 Website ini dibuat sebagai bagian dari tugas/portofolio kelompok **Trisabilillah**, dengan fokus pada:
 - Desain UI/UX yang bersih dan modern
-- Navigasi yang ramah pengguna (navbar responsif)
 - Bagian-bagian utama: Beranda, Keunggulan, Program, Aktivitas, Fasilitas, Testimoni, dan Kontak
 - Responsif untuk perangkat desktop maupun mobile
 
